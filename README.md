@@ -10,11 +10,15 @@ The MedConnect API provides a backend for a healthcare appointment scheduling pl
 
 ## Table of Contents
 
+* [Deployment](#deployment)
 * [Getting Started](#getting-started)
 * [Requirements](#requirements)
 * [ER Diagram](https://github.com/user-attachments/assets/b927bcee-5f7d-42bd-a369-c74c5a772a98)
 * [End Points](https://github.com/Y-Baker/alx-airbnb-project-documentation/blob/main/user-stories/README.md)
 * [Authors](#authors-black_nib)
+
+## Deployment
+Try the MedConnect API live: [MedConnect API Swagger Documentation](https://medapi.runasp.net/swagger/index.html)
 
 ## Getting Started
 
